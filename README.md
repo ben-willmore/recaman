@@ -9,4 +9,4 @@ video: https://www.youtube.com/watch?v=FGC5TdIiT9U
 
 Some more information at Wikipedia: https://en.wikipedia.org/wiki/Recamán%27s_sequence
 
-![Example 1](./examples/recaman.pdf)
+![Example 1](./examples/recaman.png)
